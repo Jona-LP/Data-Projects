@@ -14,3 +14,28 @@ Hi👋, my name is Jonathan! I have a solid analytical foundation thanks to my s
 Currently, I’m completing a Data Science bootcamp with the goal of expanding and strengthening my knowledge in statistical analysis, data handling, and visualization —essential tools for any data specialist.
 
 This is a place to showcase my skills, share interesting projects and track my progress in Data Analysis and Data Science related topics.
+
+---
+
+## *Table of Contents*
+
+- [**Portfolio Projects**](https://duckduckgo.com)
+
+  - Python Project - [Books Dataset: Data cleaning workflow]([https://duckduckgo.com](https://github.com/Jona-LP/Data-Projects/edit/main/README.md#1-books-dataset-data-cleaning-workflow)).
+ 
+---
+
+## Portfolio Projects
+
+Below is a list of my data analytics projects and their respective technology stacks.
+
+### 1. Books Dataset: Data cleaning workflow
+
+Code: [Books Dataset: Data cleaning workflow]([https://duckduckgo.com](https://github.com/Jona-LP/Data-Projects/blob/main/booksdataset_data_cleaning_project.ipynb)).
+
+This project is a comprehensive review of the dataset's characteristics, followed by the implementation of standard data cleaning procedures (handling missing values, null entries, and standardization). The objective of this project is to generate a CSV file with the dataset in optimal condition for subsequent tasks, such as training a predictive model or creating visualizations.
+
+Skills: data cleaning, exploratory data analysis.
+
+Stack: Python, Pandas, Numpy, Dateutil.
+ 
