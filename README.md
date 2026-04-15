@@ -21,7 +21,7 @@ This is a place to showcase my skills, share interesting projects and track my p
 
 - [**Portfolio Projects**](https://github.com/Jona-LP/Data-Projects/edit/main/README.md#portfolio-projects)
 
-  - Python Project - [Books Dataset: Data cleaning workflow](https://github.com/Jona-LP/Data-Projects/edit/main/README.md#1-books-dataset-data-cleaning-workflow).
+  - Python Project - [Books Dataset: Data cleaning workflow.](https://github.com/Jona-LP/Data-Projects/tree/main?tab=readme-ov-file#1-books-dataset-data-cleaning-workflow)
  
 ---
 
@@ -31,7 +31,7 @@ Below is a list of my data analytics projects and their respective technology st
 
 ### 1. Books Dataset: Data cleaning workflow
 
-Code: [Books Dataset: Data cleaning workflow](https://github.com/Jona-LP/Data-Projects/blob/main/booksdataset_data_cleaning_project.ipynb).
+Code: [Books Dataset: Data cleaning workflow.](https://github.com/Jona-LP/Data-Projects/blob/main/booksdataset_data_cleaning_project.ipynb)
 
 This project is a comprehensive review of the dataset's characteristics, followed by the implementation of standard data cleaning procedures (handling missing values, null entries, and standardization). The objective of this project is to generate a CSV file with the dataset in optimal condition for subsequent tasks, such as training a predictive model or creating visualizations.
 
