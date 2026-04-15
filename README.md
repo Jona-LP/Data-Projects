@@ -19,7 +19,7 @@ This is a place to showcase my skills, share interesting projects and track my p
 
 ## *Table of Contents*
 
-- [**Portfolio Projects**](https://github.com/Jona-LP/Data-Projects/edit/main/README.md#portfolio-projects)
+- [**Portfolio Projects**](https://github.com/Jona-LP/Data-Projects/blob/main/README.md#portfolio-projects)
 
   - Python Project - [Books Dataset: Data cleaning workflow.](https://github.com/Jona-LP/Data-Projects/tree/main?tab=readme-ov-file#1-books-dataset-data-cleaning-workflow)
  
